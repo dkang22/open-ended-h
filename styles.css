@@ -1,0 +1,16 @@
+head {
+  font-weight: bold;
+  font-size: 21px;
+}
+
+p {
+  font-size: 14px;
+}
+
+a[href="http://www.ucla.edu"] {
+  color: green;
+}
+
+a:hover {
+  text-decoration: none;
+}
